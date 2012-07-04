@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
-require 'sinatra'
-require 'data_mapper'
-require 'haml'
+gem 'sinatra'
+gem 'data_mapper'
+gem 'haml'
